@@ -1,0 +1,31 @@
+Conexion: Pato Sun May  4 13:01:39 2014
+Desconexion: Pato Sun May  4 13:01:45 2014
+Conexion: Fernando Mon May  5 14:41:30 2014
+Desconexion: Fernando Mon May  5 14:41:30 2014
+Conexion: Fernando Mon May  5 14:41:39 2014
+Desconexion: Fernando Mon May  5 14:42:41 2014
+Conexion: Fernando Mon May  5 14:45:25 2014
+eth0Desconexion: Fernando Mon May  5 14:46:06 2014
+Conexion: Fernando Mon May  5 14:48:25 2014
+eth0FIN* Mon May  5 14:50:00 2014
+Desconexion: 14:48:54 2014
+dirL Mon May  5 14:48:55 2014
+ipinfoL Mon May  5 14:49:01 2014
+ipinfoR Mon May  5 14:49:03 2014
+ Mon May  5 14:50:00 2014
+Conexion: Fernando Mon May  5 14:55:42 2014
+eth0dirR Mon May  5 14:56:14 2014
+dirL Mon May  5 14:56:15 2014
+FIN* Mon May  5 14:56:18 2014
+Desconexion: 14:56:18 2014
+Desconexion: 1 Mon May  5 14:56:18 2014
+Conexion: Pato Mon May  5 14:57:41 2014
+Desconexion: Pato Mon May  5 14:58:16 2014
+Conexion: Fernando Mon May  5 14:57:23 2014
+Desconexion: Fernando Mon May  5 14:58:19 2014
+Conexion: Fernando Wed May  7 19:08:59 2014
+eth0Desconexion: Fernando Wed May  7 19:09:41 2014
+Conexion: Fernando Wed May  7 19:11:59 2014
+wlan0Desconexion: Fernando Wed May  7 19:12:17 2014
+Conexion: Fernando Wed May  7 19:13:13 2014
+Desconexion: Fernando Wed May  7 19:13:21 2014

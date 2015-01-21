@@ -1,0 +1,26 @@
+ee(path, level + 1);
+        }
+        else
+            printf("%*s- %s\n", level*2, "", entry->d_name);
+    } while (entry = readdir(dir));
+    closedir(dir);
+}
+void copiar() {
+	/*Apertura del archivo en modo solo lectura*/
+         if ((fd_origen=open("Servidor.txt",O_RDONLY))== -1) {
+		perror(argv[1]);
+		exit(-1);
+	}
+	/* Apertura o creacion de archivos en modo solo escritura*/
+	if ((fd_destino=open("ServidorCopia.txt",O_WRONLY|O_TRUNC|O_CREAT, 0666))== -1) {
+		perror(argv[2]);
+		exit(-1);
+	}
+ 	/* copiamos el archivo origen en el archivo destino. */
+	while ((nbytes=read(fd_origen, buffer, sizeof buffer))> 0) {
+		write(fd_destino, buffer, nbytes);
+	}
+	close(fd_origen);
+	close(fd_destino);	
+}
+pthread_t c;
